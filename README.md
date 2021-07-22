@@ -31,3 +31,17 @@ https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.management.monitor.m
 If you already have said time zone 
 PowerShell:
 get-timezone | Select Id
+
+
+
+HOW TO APPLY TO VMs automatically
+
+Login to Azure portal - Azure.portal.com
+Open the menu blade
+Virtual machines
+Click a machine 
+Under settings go to extensions
+Click add
+Click Custom Script Extension
+Click create
+Browse to your local copy of the ChangeLocale.PS1
