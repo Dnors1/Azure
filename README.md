@@ -44,4 +44,6 @@ Under settings go to extensions
 Click add
 Click Custom Script Extension
 Click create
-Browse to your local copy of the ChangeLocale.PS1
+Browse to your copy of the ChangeLocale.PS1
+
+(Will need to upload copy of ChangeLocale.PS1 to cloud storage in order to select) 
